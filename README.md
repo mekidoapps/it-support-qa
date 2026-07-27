@@ -1,2 +1,15 @@
-# it-support-qa
-IT support knowledge base for help desk and system administrators.
+# IT Support Q&A
+
+情報システム担当・社内SE・ヘルプデスク向けの
+問い合わせ対応ナレッジ集です。
+
+## 目的
+
+- 問い合わせ対応の蓄積
+- 新人教育
+- ナレッジ共有
+- 将来的なWeb・アプリ化
+
+## License
+
+MIT
